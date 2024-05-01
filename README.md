@@ -1,1 +1,1 @@
-# DynamicFashionApp
+# SSFashionApp

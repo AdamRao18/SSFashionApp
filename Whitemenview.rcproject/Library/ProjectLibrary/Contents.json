@@ -1,0 +1,27 @@
+[
+  {
+    "libraryIdentifier" : "21c9aba6219c77e94973969c29715de8",
+    "format" : "model",
+    "displayName" : "WhiteMen.usdz"
+  },
+  {
+    "libraryIdentifier" : "778d5a8eb99be502765d7bbe2b38bb4f",
+    "format" : "model",
+    "displayName" : "MaroonMen.usdz"
+  },
+  {
+    "libraryIdentifier" : "80aac3f0e67b4b2443c588726299cebd",
+    "format" : "model",
+    "displayName" : "BiegeMen.usdz"
+  },
+  {
+    "libraryIdentifier" : "b97ff94b0f8e4260737372996f1c53b9",
+    "format" : "model",
+    "displayName" : "BlueMen.usdz"
+  },
+  {
+    "libraryIdentifier" : "34526e6c408fd1e12bcecb7acfbfa2a5",
+    "format" : "model",
+    "displayName" : "GreenMen.usdz"
+  }
+]
